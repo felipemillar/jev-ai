@@ -1,0 +1,728 @@
+{
+  "SRC-0000": {
+    "title": "Centinela Formal: Información no expuesta o sin evidencia primaria verificable (`no_expuesto_por_herramienta`)",
+    "author": "Antigravity / Ecosistema Jev",
+    "url": "internal://sentinel/no_expuesto_por_herramienta",
+    "type": "Identificador centinela formal"
+  },
+  "SRC-0001": {
+    "title": "Introducing System One Models and Jev",
+    "author": "TypeSafe AI Inc. (Diogo Almeida)",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "type": "Documentación proveedor / Anuncio oficial"
+  },
+  "SRC-0002": {
+    "title": "TypeSafe AI Official Documentation",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/",
+    "type": "Documentación técnica oficial"
+  },
+  "SRC-0003": {
+    "title": "TypeSafe AI: Confidence & Calibration",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/confidence",
+    "type": "Documentación técnica oficial"
+  },
+  "SRC-0004": {
+    "title": "Capability Jaggedness & Decision Boundaries in Jev 1.13",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/model-jaggedness/jev-1.13",
+    "type": "Documentación técnica oficial"
+  },
+  "SRC-0005": {
+    "title": "TypeSafe AI Concepts: Use Case Map",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/concepts/use-case-map",
+    "type": "Documentación técnica oficial"
+  },
+  "SRC-0006": {
+    "title": "TypeSafe Cookbooks: Citation Check",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/cookbooks/citation_check",
+    "type": "Guía técnica / Cookbook"
+  },
+  "SRC-0007": {
+    "title": "TypeSafe Cookbooks: Autoresearch Feature Discovery",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/cookbooks/autoresearch_feature_discovery",
+    "type": "Guía técnica / Cookbook"
+  },
+  "SRC-0008": {
+    "title": "GitHub: itsmostafa/typesafe-mcp — MCP Connector for Jev",
+    "author": "Mostafa",
+    "url": "https://github.com/itsmostafa/typesafe-mcp",
+    "type": "Repositorio comunitario de integración"
+  },
+  "SRC-0009": {
+    "title": "GitHub: logan-markewich/jeff — Open Self-Hosted Drop-in for Jev",
+    "author": "Logan Markewich",
+    "url": "https://github.com/logan-markewich/jeff",
+    "type": "Repositorio / Modelo abierto alternativo"
+  },
+  "SRC-0010": {
+    "title": "DataCamp: Jev — TypeSafe's System One Model Explained",
+    "author": "DataCamp (Tutorial Team)",
+    "url": "https://www.datacamp.com/blog/system-one-models-jev",
+    "type": "Artículo divulgativo secundario"
+  },
+  "SRC-0011": {
+    "title": "Dev.to: How to Use Jev — Practical Guide to TypeSafe's Model",
+    "author": "Valyu AI",
+    "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
+    "type": "Guía técnica comunitaria"
+  },
+  "SRC-0012": {
+    "title": "Hacker News: Introducing System One Models and Jev (Discussion)",
+    "author": "Comunidad Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49717558",
+    "type": "Discusión comunitaria / Crítica técnica"
+  },
+  "SRC-0013": {
+    "title": "TypeSafe AI Blog: Lies, Damned Lies, and Benchmarks",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://typesafe.ai/blog/antibenchmaxxing",
+    "type": "Post de postura técnica / Metodología"
+  },
+  "SRC-0014": {
+    "title": "TypeSafe AI Blog: The Bitterest Lesson",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://typesafe.ai/blog/bitterest-lesson",
+    "type": "Post conceptual / Enfoque de arquitectura"
+  },
+  "SRC-0015": {
+    "title": "Xataka: IA 400 veces más barata que no sabe escribir",
+    "author": "Xataka (Redacción)",
+    "url": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
+    "type": "Divulgación periodística general"
+  },
+  "SRC-0016": {
+    "title": "LangChain: What Is Jev? Guide to TypeSafe AI's System One Model",
+    "author": "LangChain Blog",
+    "url": "https://www.langchain.com/blog/building-a-harness-with-jev",
+    "type": "Blog técnico de integración"
+  },
+  "SRC-0017": {
+    "title": "GitHub: jkudish/jev-browser — Browser automation with Jev",
+    "author": "jkudish",
+    "url": "https://github.com/jkudish/jev-browser",
+    "type": "Repositorio comunitario de integración"
+  },
+  "SRC-0018": {
+    "title": "GitHub: superagents-lab/jev-search — Fast semantic search with Jev",
+    "author": "Superagents Lab",
+    "url": "https://github.com/superagents-lab/jev-search",
+    "type": "Repositorio comunitario de integración"
+  },
+  "SRC-0019": {
+    "title": "GitHub: yibie/awesome-jev — Curated list of Jev projects and tools",
+    "author": "yibie",
+    "url": "https://github.com/yibie/awesome-jev",
+    "type": "Directorio curado comunitario"
+  },
+  "SRC-0020": {
+    "title": "GitHub Gist: pjburnhill — Comprehensive Project Reference for Jev",
+    "author": "pjburnhill",
+    "url": "https://gist.github.com/pjburnhill/adf8d28efcad9df037bfdece178ef965",
+    "type": "Referencia comunitaria de proyecto"
+  },
+  "SRC-0021": {
+    "title": "Eigent AI: What Is Jev? TypeSafe AI's System One Model, Explained",
+    "author": "Eigent AI",
+    "url": "https://www.eigent.ai/blog/typesafe-ai-jev-system-one-models",
+    "type": "Blog explicativo"
+  },
+  "SRC-0022": {
+    "title": "OmniaKey: What Is the Jev Model? TypeSafe System One AI Explained",
+    "author": "OmniaKey",
+    "url": "https://omniakey.com/blog/jev-model-explained",
+    "type": "Blog explicativo"
+  },
+  "SRC-0023": {
+    "title": "arXiv 2307.12950: RLCD — Reinforcement Learning from Contrastive Distillation for LM Alignment",
+    "author": "Kevin Yang et al. (UC Berkeley / ICLR 2024)",
+    "url": "https://arxiv.org/abs/2307.12950",
+    "type": "Paper académico / Alineamiento contrastivo"
+  },
+  "SRC-0024": {
+    "title": "MindStudio: RLCD vs RLHF — What Is TypeSafe's Jev Model Actually Claiming?",
+    "author": "MindStudio Blog",
+    "url": "https://www.mindstudio.ai/blog/typesafe-jev-rlcd-vs-rlhf",
+    "type": "Análisis técnico comparativo"
+  },
+  "SRC-0025": {
+    "title": "Micheal Bee: What Jev Probably Is, And Why You Already Have One",
+    "author": "Micheal Bee (Medium)",
+    "url": "https://medium.com/@michealbee/what-jev-probably-is",
+    "type": "Deconstrucción de arquitectura NLI"
+  },
+  "SRC-0026": {
+    "title": "Cloudflare AI Docs: Jev (TypeSafe) Model Specification",
+    "author": "Cloudflare Developers",
+    "url": "https://developers.cloudflare.com/ai/models/typesafe/jev/",
+    "type": "Especificación de pasarela cloud"
+  },
+  "SRC-0027": {
+    "title": "Documentos Analíticos Canónicos P02 (P02_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P02",
+    "type": "Análisis y síntesis estructurada"
+  },
+  "SRC-0028": {
+    "title": "Benchmarks Comunitarios de Calibración (scienthoon & yodablocks)",
+    "author": "scienthoon, yodablocks",
+    "url": "GitHub: scienthoon/jev-ood-calibration, yodablocks/jev-orderby-bench",
+    "type": "Repositorios de evaluación empírica"
+  },
+  "SRC-0029": {
+    "title": "Geifman & El-Yaniv (2017): Selective Classification for Deep Neural Networks",
+    "author": "Yonatan Geifman, Ran El-Yaniv (arXiv:1705.08500)",
+    "url": "https://arxiv.org/abs/1705.08500",
+    "type": "Clasificación con opción de abstención y cobertura"
+  },
+  "SRC-0030": {
+    "title": "Guo et al. (2017): On Calibration of Modern Neural Networks",
+    "author": "Chuan Guo et al. (ICML 2017 / arXiv:1706.04599)",
+    "url": "https://arxiv.org/abs/1706.04599",
+    "type": "Fundamento de calibración ECE y Temperature Scaling"
+  },
+  "SRC-0031": {
+    "title": "Hendrickx et al. (2021): Machine Learning with a Reject Option: A Survey",
+    "author": "Kilian Hendrickx et al. (arXiv:2107.11277)",
+    "url": "https://arxiv.org/abs/2107.11277",
+    "type": "Taxonomía de rechazo y abstención en ML"
+  },
+  "SRC-0032": {
+    "title": "Mozannar & Sontag (2020): Consistent Estimators for Learning to Defer to an Expert",
+    "author": "Hussein Mozannar, David Sontag (ICML 2020 / arXiv:2006.01862)",
+    "url": "https://arxiv.org/abs/2006.01862",
+    "type": "Teoría de derivación a expertos humanos"
+  },
+  "SRC-0033": {
+    "title": "Fundamentos de Clasificación Ordinal y Matriz de Costes",
+    "author": "Wikipedia / Teoría de Decisión Bayesiana",
+    "url": "https://en.wikipedia.org/wiki/Ordinal_classification",
+    "type": "Clasificación ordinal, anclas y funciones de coste"
+  },
+  "SRC-0034": {
+    "title": "Documentos Analíticos Canónicos P03 (P03_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P03 (`420bc955-32d2-44bf-b9ad-e3b8a7874d43`)",
+    "type": "Análisis de diseño de decisiones y contratos"
+  },
+  "SRC-0035": {
+    "title": "The Foundations of Cost-Sensitive Learning",
+    "author": "Charles Elkan (IJCAI 2001)",
+    "url": "https://cdn.aaai.org/IJCAI/2001/IJCAI01-135.pdf",
+    "type": "Teoría de decisión bayesiana y matrices de coste asimétricas"
+  },
+  "SRC-0036": {
+    "title": "A Survey of Hierarchical Classification Across Different Application Domains",
+    "author": "Carlos N. Silla Jr., Alex A. Freitas (DMKD)",
+    "url": "https://doi.org/10.1007/s10618-010-0175-9",
+    "type": "Taxonomías jerárquicas y propagación de errores en cascada"
+  },
+  "SRC-0037": {
+    "title": "Calibrate Before Use: Improving Few-Shot Performance of Language Models",
+    "author": "Ziwei Ji et al. / Tony Z. Zhao et al. (ICML 2021)",
+    "url": "https://arxiv.org/abs/2102.09690",
+    "type": "Sesgo de anclaje contextual y fuga de evaluación en few-shot"
+  },
+  "SRC-0038": {
+    "title": "Patterns of Distributed Systems & Decoupled Execution (CQRS / Sagas)",
+    "author": "Martin Fowler / Enterprise Architecture",
+    "url": "https://martinfowler.com/bliki/CQRS.html",
+    "type": "Separación estricta entre juicio semántico, autorización y ejecución"
+  },
+  "SRC-0039": {
+    "title": "TypeSafe AI System One API Reference & State Specs (`POST /v1/systemone`)",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/api",
+    "type": "Especificación formal del payload `state`, campos, límites y tipos"
+  },
+  "SRC-0040": {
+    "title": "Documentos Analíticos Canónicos P04 (P04_DEEP_DIVE, EVIDENCE_MAP, CONTEXT_PLAYBOOK)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P04 (`97480264-ff2c-4816-9dec-4b8ce071500a`)",
+    "type": "Análisis de contratos de datos, preparación de contexto y minimización"
+  },
+  "SRC-0041": {
+    "title": "Documentos Analíticos Canónicos P05 (P05_DEEP_DIVE, EVIDENCE_MAP, CALIBRATION_PLAYBOOK)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P05 (`d65c48bf-c7d3-44d4-b0cf-79842f3df7dc`)",
+    "type": "Análisis de probabilidad, calibración empírica, abstención y costes"
+  },
+  "SRC-0042": {
+    "title": "Niculescu-Mizil & Caruana (2005): Predicting Good Probabilities With Supervised Learning",
+    "author": "Alexandru Niculescu-Mizil, Rich Caruana (ICML 2005)",
+    "url": "https://doi.org/10.1145/1102351.1102430",
+    "type": "Comparación de Platt Scaling, Isotonic Regression y calibración en clasificadores"
+  },
+  "SRC-0043": {
+    "title": "Angelopoulos & Bates (2021): A Gentle Introduction to Conformal Prediction",
+    "author": "Anastasios N. Angelopoulos, Stephen Bates",
+    "url": "https://arxiv.org/abs/2107.07511",
+    "type": "Fundamentos matemáticos y garantías de cobertura en Conformal Prediction"
+  },
+  "SRC-0044": {
+    "title": "Brier (1950): Verification of Forecasts Expressed in Terms of Probability",
+    "author": "Glenn W. Brier (Monthly Weather Review 78(1):1-3)",
+    "url": "https://doi.org/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+    "type": "Formulación canónica de la regla de puntuación propia (Brier Score)"
+  },
+  "SRC-0045": {
+    "title": "Parasuraman, Sheridan & Wickens (2000): A Model for Types and Levels of Human Interaction with Automation",
+    "author": "R. Parasuraman, T. B. Sheridan, C. D. Wickens (IEEE SMC)",
+    "url": "https://doi.org/10.1109/3468.844354",
+    "type": "Ergonomía cognitiva, niveles de automatización y sesgo de automatización"
+  },
+  "SRC-0046": {
+    "title": "Documentos Analíticos Canónicos P06 (P06_DEEP_DIVE, EVIDENCE_MAP, EVALUATION_PLAYBOOK)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P06 (`9b87f42f-e3f9-49ca-afb4-affe7c6259da`)",
+    "type": "Metodología de evaluación independiente, pruebas pareadas y baselines"
+  },
+  "SRC-0047": {
+    "title": "Mitchell et al. (2019): Model Cards for Model Reporting",
+    "author": "Margaret Mitchell et al. (FAT* 2019 / arXiv:1810.03993)",
+    "url": "https://arxiv.org/abs/1810.03993",
+    "type": "Estándar de reporte transparente y transferibilidad de modelos"
+  },
+  "SRC-0048": {
+    "title": "Ribeiro et al. (2020): Beyond Accuracy — Behavioral Testing of NLP Models with CheckList",
+    "author": "Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh (ACL 2020)",
+    "url": "https://arxiv.org/abs/2005.04118",
+    "type": "Pruebas de perturbación conductual, invarianzas y sensibilidad adversarial"
+  },
+  "SRC-0049": {
+    "title": "Dietterich (1998): Approximate Statistical Tests for Comparing Supervised Learning Algorithms",
+    "author": "Thomas G. Dietterich (Neural Computation 10(7): 1895-1923)",
+    "url": "https://doi.org/10.1162/089976698300017197",
+    "type": "Metodología de pruebas estadísticas para comparación de algoritmos en ML"
+  },
+  "SRC-0050": {
+    "title": "Documentos Analíticos Canónicos P07 (P07_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P07 (`c4456cc0-01f4-48aa-866e-cdc1ad44cf6a`)",
+    "type": "Fenomenología lingüística, modismos chilenos, code-switching y evaluación directa"
+  },
+  "SRC-0051": {
+    "title": "Belebele: Parallel Multi-variant Reading Comprehension",
+    "author": "Lucas Bandarkar et al. (Meta AI / arXiv:2308.16884)",
+    "url": "https://arxiv.org/abs/2308.16884",
+    "type": "Dataset paralelo de comprensión de lectura en 122 variantes lingüísticas y dialectales"
+  },
+  "SRC-0052": {
+    "title": "FLORES-200: Evaluation of Massive Multilingual NMT across Dialects",
+    "author": "NLLB Team, Marta R. Costa-jussà et al. (Meta AI / arXiv:2207.04672)",
+    "url": "https://arxiv.org/abs/2207.04672",
+    "type": "Evaluación multilingüe para 200 idiomas y variedades dialectales; degradación por NMT"
+  },
+  "SRC-0053": {
+    "title": "MarIA: Spanish Language Models and Benchmarks",
+    "author": "Asier Gutiérrez-Fandiño et al. (Barcelona Supercomputing Center / arXiv:2107.07253)",
+    "url": "https://arxiv.org/abs/2107.07253",
+    "type": "Modelos RoBERTa-BNE y benchmarks monolingües de clasificación y QA en español"
+  },
+  "SRC-0054": {
+    "title": "LinCE: Centralized Benchmark for Linguistic Code-switching Evaluation",
+    "author": "Gustavo Aguilar et al. (EMNLP 2020 / arXiv:2005.04322)",
+    "url": "https://arxiv.org/abs/2005.04322",
+    "type": "Benchmark para evaluación de alternancia de código (Spanglish) en NLP"
+  },
+  "SRC-0055": {
+    "title": "XNLI: Cross-lingual Natural Language Inference",
+    "author": "Alexis Conneau et al. (EMNLP 2018 / arXiv:1809.05053)",
+    "url": "https://arxiv.org/abs/1809.05053",
+    "type": "Inferencia de lenguaje natural cross-lingüe y pérdida de consistencia semántica"
+  },
+  "SRC-0056": {
+    "title": "Corpus Normativo Ley Chile",
+    "author": "Biblioteca del Congreso Nacional de Chile (BCN)",
+    "url": "https://www.bcn.cl/leychile",
+    "type": "Marco normativo y terminológico oficial (CMF, SII, DT, Código de Comercio)"
+  },
+  "SRC-0057": {
+    "title": "1kpapers.com: Cost and Latency Breakdown in Production with Jev",
+    "author": "Hassan El Mghari",
+    "url": "https://1kpapers.com/",
+    "type": "Reporte empírico de costes y latencias de inferencia tipada en producción"
+  },
+  "SRC-0058": {
+    "title": "Sniff Test: Production Linter Instrumenting Typed Jev Primitives",
+    "author": "Dan R. Willoughby",
+    "url": "https://github.com/DanRWilloughby/sniff-test",
+    "type": "Repositorio de instrumentación y linter de texto en producción"
+  },
+  "SRC-0059": {
+    "title": "Anthropic Research: Building Effective Agents (Workflow & Agent Architecture Patterns)",
+    "author": "Anthropic Research",
+    "url": "https://www.anthropic.com/research/building-effective-agents",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0060": {
+    "title": "GitHub: Alurith/jeff — CLI de análisis semántico de código con Jev",
+    "author": "Comunidad Open Source",
+    "url": "https://github.com/Alurith/jeff",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0061": {
+    "title": "GitHub: Anil-matcha/awesome-jev-by-typesafe — Use Cases, Cascades & Patterns",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://github.com/Anil-matcha/awesome-jev-by-typesafe",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0062": {
+    "title": "GitHub: typesafe-ai/typesafe-sdk-python — SDK Oficial y Especificación de Tipos",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://github.com/typesafe-ai/typesafe-sdk-python",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0063": {
+    "title": "InfoWorld: TypeSafe AI's New Models Work with Machines, Not Humans",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://www.infoworld.com/article/4223468/typesafe-ais-new-models-work-with-machines-not-humans.html",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0064": {
+    "title": "Martin Fowler: CircuitBreaker Pattern for Software Architecture & Resilient Systems",
+    "author": "Martin Fowler",
+    "url": "https://martinfowler.com/bliki/CircuitBreaker.html",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0065": {
+    "title": "AnotiaWang/awesome-jev: Curated list of TypeSafe Jev resources and integrations",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://github.com/AnotiaWang/awesome-jev",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0066": {
+    "title": "BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models (Thakur et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2104.08663",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0067": {
+    "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction (Khattab & Zaharia)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2007.00808",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0068": {
+    "title": "Corrective Retrieval Augmented Generation (CRAG - Yan et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2402.16840",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0069": {
+    "title": "Lost in the Middle: How Language Models Use Long Contexts (Liu et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2309.01431",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0070": {
+    "title": "MS MARCO: A Human Generated Machine Reading Comprehension Dataset (Nguyen et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/1611.09268",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0071": {
+    "title": "Pydantic AI: TypeSafe Jev Integration Docs",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://pydantic.dev/docs/ai/models/typesafe",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0072": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2005.11401",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0073": {
+    "title": "SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval (Formal et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2112.09118",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0074": {
+    "title": "SciFact: Fact-Checking Scientific Claims with Evidence (Wadden et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2004.14974",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0075": {
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection (Asai et al.)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2310.01558",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0076": {
+    "title": "TheoLeeCJ/openjev: Open replication of TypeSafe Jev System One",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://github.com/TheoLeeCJ/openjev",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0077": {
+    "title": "TypeSafe Cookbooks: Retrieval & Reranking",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/radar/p10",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0078": {
+    "title": "TypeSafe Jaggedness & Failure Modes",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/radar/p10",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0079": {
+    "title": "WiktorB2004/llama-index-jev: Jev integration for LlamaIndex",
+    "author": "Comunidad Open Source",
+    "url": "https://github.com/WiktorB2004/llama-index-jev",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0080": {
+    "title": "BIPIA (2023) — Benchmarking and Defending Against Indirect Prompt Injection Attacks",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2312.14197",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0081": {
+    "title": "GitHub: AkashPriyadarshii/jev-git — Rust pre-commit gate and secret screening",
+    "author": "Comunidad Open Source",
+    "url": "https://github.com/AkashPriyadarshii/jev-git",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0082": {
+    "title": "GitHub: abhixhek/jevcal — Confidence calibration lockfile for Jev",
+    "author": "Comunidad Open Source",
+    "url": "https://github.com/abhixhek/jevcal",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0083": {
+    "title": "GitHub: luantak/is-malicious — Codebase scanner with Jev verification",
+    "author": "Comunidad Open Source",
+    "url": "https://github.com/luantak/is-malicious",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0084": {
+    "title": "Greshake et al. (2023) — Not what you've signed up for: Indirect Prompt Injection",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2302.12173",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0085": {
+    "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2402.04249",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0086": {
+    "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2312.06674",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0087": {
+    "title": "NIST AI 600-1 — Artificial Intelligence Risk Management Framework: Generative AI Profile",
+    "author": "NIST / OWASP Foundation",
+    "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0088": {
+    "title": "NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2310.10501",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0089": {
+    "title": "OWASP Top 10 for Large Language Model Applications (2025)",
+    "author": "NIST / OWASP Foundation",
+    "url": "https://owasp.org/projects/top-10-for-large-language-model-applications",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0090": {
+    "title": "Simon Willison — The Dual LLM pattern for building AI assistants that can resist prompt injection",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0091": {
+    "title": "AWS Architecture: Exponential Backoff And Jitter",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0092": {
+    "title": "Google SRE Book: Service Level Objectives and Distributed Architecture Reliability",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://sre.google/sre-book/table-of-contents/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0093": {
+    "title": "MDN Web Docs: Idempotent HTTP Methods and Distributed Operations",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/Idempotent",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0094": {
+    "title": "Stripe API Reference: Designing Robust Systems with Idempotent Requests",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://docs.typesafe.ai/radar/p12",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0095": {
+    "title": "CloudZero: Groq Pricing In 2026 — Model, Tier, and Cost Compared",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://www.cloudzero.com/blog/groq-pricing/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0096": {
+    "title": "Flavio Copes: A deep dive into Jev, TypeSafe's System One model",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://docs.typesafe.ai/radar/p13",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0097": {
+    "title": "Google Developers Blog: Gemini 1.5 Flash Updates and Pricing Structure",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0098": {
+    "title": "OpenAI API Documentation: text-embedding-3-small and Pricing",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://developers.openai.com/api/docs/models/text-embedding-3-small",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0099": {
+    "title": "Voyage AI: Embeddings and Reranking Official Pricing Documentation",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://docs.voyageai.com/docs/pricing",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0100": {
+    "title": "AI News: ChatGPT pioneer launches Jev model for programmatic logic",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0101": {
+    "title": "Bailey & López de Prado (2014) — The Deflated Sharpe Ratio: Correcting for Overfitting",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/1412.6387",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0102": {
+    "title": "López de Prado (2018) — The 10 Applied Lessons from Financial Machine Learning",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/1801.01777",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0103": {
+    "title": "I tried TypeSafe's System One Model: Jev",
+    "author": "TypeSafe AI Inc.",
+    "url": "https://www.youtube.com/watch?v=CcmqPS6q9Gw",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0104": {
+    "title": "Lu et al. (2018) — Learning under Concept Drift: A Review (Temporal Updating & Drift Detection)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2004.05785",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0105": {
+    "title": "Min et al. (2023) — FActScore: Fine-grained Atomic Evaluation of Factual Precision",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2305.14251",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0106": {
+    "title": "Ren et al. (2021) — A Survey of Deep Active Learning (Query Strategies & Human-in-the-Loop)",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2009.00236",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0107": {
+    "title": "Thorne et al. (2018) — FEVER: Fact Extraction and VERification Dataset & Provenance",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/1803.05355",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0108": {
+    "title": "FrugalGPT (2023) — How to Use Large Language Models While Reducing Cost and Improving Performance",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2305.05176",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0109": {
+    "title": "RouteLLM (2024) — Learning to Route LLMs with Preference Data",
+    "author": "Varios / Equipo de Investigación",
+    "url": "https://arxiv.org/abs/2406.18665",
+    "type": "Fuente externa catalogada"
+  },
+  "SRC-0110": {
+    "title": "Documentos Analíticos Canónicos P08 (P08_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P08 (`ec4c11a4-5a35-49f7-83fa-743ade425e0f`)",
+    "type": "Arquitecturas híbridas, orquestación, circuit breakers y cascadas"
+  },
+  "SRC-0111": {
+    "title": "Documentos Analíticos Canónicos P09 (P09_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P09 (`9caaa68c-dd93-4ac9-b250-ac3d4fae0bdf`)",
+    "type": "Contratos API, SDKs, MCP, conectores y límites operativos"
+  },
+  "SRC-0112": {
+    "title": "Documentos Analíticos Canónicos P10 (P10_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P10 (`762a1766-04d4-4a97-aad4-888b8a309c02`)",
+    "type": "Búsqueda semántica, reranking, citación y verificación de pasajes"
+  },
+  "SRC-0113": {
+    "title": "Documentos Analíticos Canónicos P11 (P11_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P11 (`703b4f94-7e0f-46e4-8fa1-7df6cb846fa0`)",
+    "type": "Modelo de amenazas, inyección de prompts, guardrails y seguridad"
+  },
+  "SRC-0114": {
+    "title": "Documentos Analíticos Canónicos P12 (P12_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P12 (`5b02c0e7-672b-44b8-8b7c-a10c718f9f6f`)",
+    "type": "Operación, observabilidad, idempotencia, timeouts y mantenimiento"
+  },
+  "SRC-0115": {
+    "title": "Documentos Analíticos Canónicos P13 (P13_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P13 (`506663b3-f795-4261-9937-2f90a8d0620d`)",
+    "type": "Economía, modelo de costes TCO, puntos de equilibrio y alternativas"
+  },
+  "SRC-0116": {
+    "title": "Documentos Analíticos Canónicos P14 (P14_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P14 (`09bdc613-0fa8-4564-863d-7c3b7904c886`)",
+    "type": "Flujos personales, productividad, priorización y triaje"
+  },
+  "SRC-0117": {
+    "title": "Documentos Analíticos Canónicos P15 (P15_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P15 (`318f16ab-eadb-4404-a033-7488fb20d193`)",
+    "type": "QRT, análisis de noticias, procedencia temporal y señales cuantitativas"
+  },
+  "SRC-0118": {
+    "title": "Documentos Analíticos Canónicos P16 (P16_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P16 (`a4f0e05a-2aff-4ea4-a6c3-2126782e9d9e`)",
+    "type": "Wheelwork, selección, talento, competencias y equidad en procesos"
+  },
+  "SRC-0119": {
+    "title": "Documentos Analíticos Canónicos P17 (P17_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P17 (`64b17185-5943-4aeb-b858-3a09ef5749f4`)",
+    "type": "Investigación acumulativa, trazabilidad, FEVER y aprendizaje activo"
+  },
+  "SRC-0120": {
+    "title": "Documentos Analíticos Canónicos P18 (P18_DEEP_DIVE, EVIDENCE_MAP, WORKFLOW_PLAYBOOK, EXPERIMENT_PROTOCOL, GAPS_AND_ACTIONS, SOURCE_INDEX)",
+    "author": "Equipo Canónico Jev",
+    "url": "Cuaderno canónico P18 (`f43387fd-42f3-4d37-8986-c8d9d6039d2a`)",
+    "type": "Nuevas oportunidades de producto, FrugalGPT, RouteLLM y validación"
+  }
+}

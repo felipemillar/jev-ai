@@ -1,0 +1,33 @@
+{
+  "id": "JEV-P01-011",
+  "herramienta": "notebooklm.notebook_query",
+  "fecha_real": "2026-09-20",
+  "notebook_id": "73562a8d-849b-459d-8f96-755f359a665f",
+  "notebook_titulo": "Jev — P01 — Evidencia y afirmaciones",
+  "pregunta_enviada": "\"¿Qué cronología de anuncios, versiones y cambios permite explicar las contradicciones entre documentos del corpus?\"",
+  "estado_consulta": "consulta_no_verificable",
+  "motivo_bloqueo": "Salida primaria y referencias no preservadas en ejecución histórica; cuadernos restringidos no expuestos en la sesión MCP activa",
+  "conversation_id": "no_expuesto_por_herramienta",
+  "respuesta_resumen": "no_expuesto_por_herramienta",
+  "respuesta_completa": "no_expuesto_por_herramienta",
+  "referencias_devueltas": [],
+  "fuentes_externas_contrastadas": [
+    "https://docs.typesafe.ai/introduction",
+    "https://docs.typesafe.ai/sdk/python",
+    "https://docs.typesafe.ai/primitives/choice",
+    "https://docs.typesafe.ai/primitives/score",
+    "https://docs.typesafe.ai/primitives/noul"
+  ],
+  "fuentes_catalogo_citadas": [
+    "SRC-0005",
+    "SRC-0003",
+    "SRC-0008",
+    "SRC-0006",
+    "SRC-0004",
+    "SRC-0010",
+    "SRC-0012",
+    "SRC-0009",
+    "SRC-0001",
+    "SRC-0002"
+  ]
+}

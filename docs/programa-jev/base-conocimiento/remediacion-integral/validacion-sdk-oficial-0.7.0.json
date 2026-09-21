@@ -1,0 +1,955 @@
+{
+  "version_sdk": "0.7.0",
+  "total_llamadas_analizadas": 185,
+  "llamadas_literales_exitosas": 95,
+  "llamadas_dinamicas_exitosas": 8,
+  "llamadas_cliente_exitosas": 84,
+  "errores_instanciacion": [],
+  "detalles_llamadas": [
+    {
+      "tipo": "TypeSafeClient",
+      "archivo": "CLIENT_TEST",
+      "estado": "INSTANCIADO_EXITOSO",
+      "firma": "(self, *, api_key: str | None = None, model: str | None = None, retry: typesafe_sdk._core.retry.RetryPolicy | None = None, timeout: float | httpx2.Timeout | None = None, headers: collections.abc.Mapping[str, str] | None = None, transport: httpx2.BaseTransport | None = None, http_client: httpx2.Client | None = None, base_url: str | None = None) -> None"
+    },
+    {
+      "tipo": "AsyncTypeSafeClient",
+      "archivo": "ASYNC_CLIENT_TEST",
+      "estado": "INSTANCIADO_EXITOSO",
+      "firma": "(self, *, api_key: str | None = None, model: str | None = None, retry: typesafe_sdk._core.retry.RetryPolicy | None = None, timeout: float | httpx2.Timeout | None = None, headers: collections.abc.Mapping[str, str] | None = None, transport: httpx2.AsyncBaseTransport | None = None, http_client: httpx2.AsyncClient | None = None, base_url: str | None = None) -> None"
+    },
+    {
+      "archivo": "JEV-P10-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-001",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-002",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-003",
+      "tipo": "AsyncTypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-003",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-005",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-005",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-011",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-011",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-014",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-014",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-015",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-015",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-016",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-016",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P10-019",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P10-019",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P11-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-004",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-004",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P11-008",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-008",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-009",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P11-016",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P11-016",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-003",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-003",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-007",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-007",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-008",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-008",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-011",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-011",
+      "tipo": "Score",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Score"
+    },
+    {
+      "archivo": "JEV-P16-012",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-012",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-013",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-013",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-014",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P16-014",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-006",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-007",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-007",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-008",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-008",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-009",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-010",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P18-010",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-001",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-001",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-001",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-004",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-005",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P02-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-006",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-006",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-006",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P02-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P13-014",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P13-014",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-006",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-007",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-007",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-009",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-010",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-010",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-011",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-011",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-013",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P14-013",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-003",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-003",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-008",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-008",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-008",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-009",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-010",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-010",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-012",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P15-012",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P12-002",
+      "tipo": "RetryPolicy",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P12-002",
+      "tipo": "AsyncTypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P12-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-011",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-013",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-013",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-013",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-015",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-020",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-020",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-020",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P01-020",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-002",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-002",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-003",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-003",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-004",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-004",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-005",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-005",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-006",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-006",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-007",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-007",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-009",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-009",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-010",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-010",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-011",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-011",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-015",
+      "tipo": "AsyncTypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-015",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-017",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-017",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-019",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-019",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P08-019",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-002",
+      "tipo": "RetryPolicy",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-002",
+      "tipo": "AsyncTypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-002",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-003",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-003",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-005",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-005",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-005",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-005",
+      "tipo": "Noul",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-006",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-008",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-008",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-P09-013",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-013",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-014",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-019",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-P09-019",
+      "tipo": "Choice",
+      "estado": "DINAMICO_SINTETICO_EXITOSO",
+      "clase_resultante": "Choice"
+    },
+    {
+      "archivo": "JEV-X-001",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-X-001",
+      "tipo": "Choice",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-X-006",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    },
+    {
+      "archivo": "JEV-X-006",
+      "tipo": "Score",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-X-010",
+      "tipo": "RetryPolicy",
+      "estado": "LITERAL_EXITOSO"
+    },
+    {
+      "archivo": "JEV-X-010",
+      "tipo": "TypeSafeClient",
+      "estado": "EXITOSO"
+    }
+  ]
+}

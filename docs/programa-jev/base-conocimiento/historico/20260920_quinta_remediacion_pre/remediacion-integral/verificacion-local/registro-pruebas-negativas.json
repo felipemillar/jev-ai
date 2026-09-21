@@ -1,0 +1,13 @@
+{
+  "fixture_choice_options": true,
+  "fixture_score_sin_criteria": true,
+  "fixture_constructor_posicional": true,
+  "fixture_retry_backoff_factor": true,
+  "fixture_hash_invalido": true,
+  "fixture_fuente_huerfana": true,
+  "fixture_respuesta_ausente_inventario": true,
+  "fixture_rubrica_duplicada": true,
+  "fixture_parrafo_normalizado_repetido": true,
+  "fixture_documento_desactualizado": true,
+  "todos_detectados": true
+}

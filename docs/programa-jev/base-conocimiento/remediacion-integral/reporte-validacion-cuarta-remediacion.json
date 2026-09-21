@@ -1,0 +1,29 @@
+{
+  "fecha": "2026-09-20",
+  "validador": "test_integrity_v4.py",
+  "version_sdk_instalada": "0.7.0",
+  "sdk_import_ok": true,
+  "criterios": {
+    "C01_yaml_validos": true,
+    "C02_maestro_coincidente": true,
+    "C03_python_ast_validos": true,
+    "C04_sdk_070_compatible": true,
+    "C05_instanciacion_sin_red": true,
+    "C06_retry_max_retries_correcto": true,
+    "C07_cero_referencias_0_1_0": true,
+    "C08_consultas_evidencia_o_bloqueo": true,
+    "C09_cero_boilerplate_repetido": true,
+    "C10_afirmaciones_fuentes": true,
+    "C11_rubricas_sobre_25_justificadas": true,
+    "C12_conteos_coherentes": true,
+    "C13_fixtures_negativos_detectan": true,
+    "C15_estado_en_revision_preservado": true,
+    "C14_suite_final_cero_defectos": true
+  },
+  "defectos_criticos": [],
+  "metricas": {
+    "total_respuestas": 384
+  },
+  "criterios_aprobados_total": "15/15",
+  "estado_general": "APROBADO_AUTORREVISION"
+}

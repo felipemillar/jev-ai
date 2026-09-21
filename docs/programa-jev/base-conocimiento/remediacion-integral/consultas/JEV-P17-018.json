@@ -1,0 +1,27 @@
+{
+  "id": "JEV-P17-018",
+  "herramienta": "notebooklm.notebook_query",
+  "fecha_real": "2026-09-20",
+  "notebook_id": "5478413b-8ea4-4876-880d-85fa7d7bbf11",
+  "notebook_titulo": "Jev — P17 — Preservación del conocimiento",
+  "pregunta_enviada": "¿Qué conjunto de preguntas de control mediría calidad de recuperación y fidelidad de las respuestas de la propia base de conocimiento?",
+  "estado_consulta": "consulta_no_verificable",
+  "motivo_bloqueo": "Salida primaria y referencias no preservadas en ejecución histórica; cuadernos restringidos no expuestos en la sesión MCP activa",
+  "conversation_id": "no_expuesto_por_herramienta",
+  "respuesta_resumen": "no_expuesto_por_herramienta",
+  "respuesta_completa": "no_expuesto_por_herramienta",
+  "referencias_devueltas": [],
+  "fuentes_externas_contrastadas": [
+    "https://docs.typesafe.ai/introduction",
+    "https://docs.typesafe.ai/sdk/python",
+    "https://docs.typesafe.ai/primitives/choice",
+    "https://docs.typesafe.ai/primitives/score",
+    "https://docs.typesafe.ai/primitives/noul"
+  ],
+  "fuentes_catalogo_citadas": [
+    "SRC-0039",
+    "SRC-0001",
+    "SRC-0005",
+    "SRC-0051"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "JEV-P07-018",
+  "herramienta": "notebooklm.notebook_query",
+  "fecha_real": "2026-09-20",
+  "notebook_id": "c4456cc0-01f4-48aa-866e-cdc1ad44cf6a",
+  "notebook_titulo": "Jev — P07 — Español y lenguaje sectorial",
+  "pregunta_enviada": "\"¿Cuándo mantener términos originales en la salida y cuándo normalizarlos para los sistemas que consumen la decisión?\"",
+  "estado_consulta": "consulta_no_verificable",
+  "motivo_bloqueo": "Salida primaria y referencias no preservadas en ejecución histórica; cuadernos restringidos no expuestos en la sesión MCP activa",
+  "conversation_id": "no_expuesto_por_herramienta",
+  "respuesta_resumen": "no_expuesto_por_herramienta",
+  "respuesta_completa": "no_expuesto_por_herramienta",
+  "referencias_devueltas": [],
+  "fuentes_externas_contrastadas": [
+    "https://docs.typesafe.ai/introduction",
+    "https://docs.typesafe.ai/sdk/python",
+    "https://docs.typesafe.ai/primitives/choice",
+    "https://docs.typesafe.ai/primitives/score",
+    "https://docs.typesafe.ai/primitives/noul"
+  ],
+  "fuentes_catalogo_citadas": [
+    "SRC-0038",
+    "SRC-0056",
+    "SRC-0050"
+  ]
+}

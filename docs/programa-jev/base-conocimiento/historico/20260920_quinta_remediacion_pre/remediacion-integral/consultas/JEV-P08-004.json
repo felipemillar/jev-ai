@@ -1,0 +1,27 @@
+{
+  "id": "JEV-P08-004",
+  "herramienta": "notebooklm.notebook_query",
+  "fecha_real": "2026-09-20",
+  "notebook_id": "ec4c11a4-5a35-49f7-83fa-743ade425e0f",
+  "notebook_titulo": "Jev — P08 — Arquitecturas híbridas",
+  "pregunta_enviada": "¿Cómo separar recomendación, autorización y ejecución para que una salida del modelo no active por sí sola acciones sensibles?",
+  "estado_consulta": "consulta_no_verificable",
+  "motivo_bloqueo": "Salida primaria y referencias no preservadas en ejecución histórica; cuadernos restringidos no expuestos en la sesión MCP activa",
+  "conversation_id": "no_expuesto_por_herramienta",
+  "respuesta_resumen": "no_expuesto_por_herramienta",
+  "respuesta_completa": "no_expuesto_por_herramienta",
+  "referencias_devueltas": [],
+  "fuentes_externas_contrastadas": [
+    "https://docs.typesafe.ai/introduction",
+    "https://docs.typesafe.ai/sdk/python",
+    "https://docs.typesafe.ai/primitives/choice",
+    "https://docs.typesafe.ai/primitives/score",
+    "https://docs.typesafe.ai/primitives/noul"
+  ],
+  "fuentes_catalogo_citadas": [
+    "SRC-0110",
+    "SRC-0038",
+    "SRC-0056",
+    "SRC-0089"
+  ]
+}

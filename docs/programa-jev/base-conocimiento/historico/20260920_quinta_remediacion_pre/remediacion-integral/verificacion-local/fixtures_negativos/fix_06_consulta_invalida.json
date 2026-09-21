@@ -1,0 +1,11 @@
+{
+  "id": "JEV-NEG-006",
+  "herramienta": "notebooklm.notebook_query",
+  "fecha_real": "2026-09-20",
+  "notebook_id": "fake-id",
+  "pregunta_enviada": "¿Pregunta no respondida?",
+  "conversation_id": "",
+  "respuesta_resumen": "Verificación individual sin evidencia preservada",
+  "referencias_devueltas": [],
+  "estado_consulta": "valida_simulada"
+}

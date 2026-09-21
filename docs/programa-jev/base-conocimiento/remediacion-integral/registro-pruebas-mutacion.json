@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "programa": "Jev AI — Quinta Remediación Focalizada",
+    "fecha": "2026-09-20",
+    "evaluador": "Antigravity",
+    "total_mutaciones": 8,
+    "aprobadas": 8,
+    "todas_aprobadas": true
+  },
+  "pruebas_mutacion": [
+    {
+      "id_mutacion": "MUT-01",
+      "criterio": "C01",
+      "descripcion": "Inyección de YAML sintácticamente corrupto en frontmatter",
+      "resultado_esperado": "Fallo de validación C01",
+      "mensaje_esperado": "YAML_PARSE_ERROR",
+      "mensaje_observado": "C01: YAML_PARSE_ERROR: ParserError",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-02",
+      "criterio": "C02",
+      "descripcion": "Alteración del texto de la pregunta respecto a cuestionario-maestro",
+      "resultado_esperado": "Fallo de validación C02",
+      "mensaje_esperado": "QUESTION_MISMATCH_WITH_MASTER",
+      "mensaje_observado": "C02: QUESTION_MISMATCH_WITH_MASTER: discrepancia textual en JEV-P01-001",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-03",
+      "criterio": "C05",
+      "descripcion": "Invocación de Choice con argumento no soportado temperature=0.7",
+      "resultado_esperado": "Fallo de validación C05",
+      "mensaje_esperado": "SDK_CONSTRUCTOR_INVALID",
+      "mensaje_observado": "C05: SDK_CONSTRUCTOR_INVALID: argumento no soportado 'temperature' en Choice",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-04",
+      "criterio": "C08",
+      "descripcion": "Declaración ficticia de consulta sin respaldo del conector",
+      "resultado_esperado": "Fallo de validación C08",
+      "mensaje_esperado": "NOTEBOOKLM_TRACE_INVALID",
+      "mensaje_observado": "C08: NOTEBOOKLM_TRACE_INVALID: estado debe declarar formalmente consulta_no_verificable",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-05",
+      "criterio": "C09",
+      "descripcion": "Inyección de dos párrafos sustantivos con 5-shingles Jaccard >= 0.50",
+      "resultado_esperado": "Fallo de validación C09",
+      "mensaje_esperado": "SUBSTANTIVE_BOILERPLATE_DETECTED",
+      "mensaje_observado": "C09: SUBSTANTIVE_BOILERPLATE_DETECTED: similitud de 5-shingles >= 0.50 (Jaccard: 0.83)",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-06",
+      "criterio": "C10",
+      "descripcion": "Inyección de fuente SRC-9999 inexistente en catálogo fuentes.md",
+      "resultado_esperado": "Fallo de validación C10",
+      "mensaje_esperado": "UNRESOLVED_SOURCE_DISCREPANCY",
+      "mensaje_observado": "C10: UNRESOLVED_SOURCE_DISCREPANCY: fuentes no catalogadas {'SRC-9999'}",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-07",
+      "criterio": "C10",
+      "descripcion": "Discrepancia forzada entre fuentes de YAML y Sección 3",
+      "resultado_esperado": "Fallo de validación C10",
+      "mensaje_esperado": "SECTION_SOURCE_DISCREPANCY",
+      "mensaje_observado": "C10: SECTION_SOURCE_DISCREPANCY: yaml={'SRC-0001', 'SRC-0009', 'SRC-0002'} != sec3={'SRC-0009', 'SRC-0002'} or sec10={'SRC-0009', 'SRC-0002'}",
+      "codigo_salida": 1,
+      "aprobado": true
+    },
+    {
+      "id_mutacion": "MUT-08",
+      "criterio": "C12",
+      "descripcion": "Modificación de contenido sin actualizar hash_final en seguimiento.csv",
+      "resultado_esperado": "Fallo de validación C12",
+      "mensaje_esperado": "HASH_FINAL_MISMATCH",
+      "mensaje_observado": "C12: HASH_FINAL_MISMATCH: hash actual eb2efc5b37175ddef6d72d91a595f9af801a334f1317570e7cec94232961cef2 != esperado e0f3725ed0f94bdd6a23d7289aae243208252acd8bc0b294dc872fa8b7af6627",
+      "codigo_salida": 1,
+      "aprobado": true
+    }
+  ]
+}
