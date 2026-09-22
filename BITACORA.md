@@ -13,7 +13,7 @@ Este documento registra cronológicamente los hitos, decisiones arquitectónicas
 - **Sincronización de Tracking**: Rama local `main` configurada con upstream en `origin/main` y árbol de trabajo completamente limpio.
 
 ### 🧠 Decisiones y Notas de Diseño:
-- Repositorio configurado como privado para resguardar la base de conocimiento y auditorías internas antes de revisiones de equipo.
+- Repositorio configurado con visibilidad pública (`PUBLIC`) en GitHub para libre acceso, auditoría y colaboración del equipo.
 
 ### ⏳ Pendientes y Siguientes Pasos:
 - Conectar e invitar a los colaboradores o agentes adicionales (Codex) al repositorio en GitHub.
